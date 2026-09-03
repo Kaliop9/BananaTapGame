@@ -1,5 +1,0 @@
-<resources>
-<style name="Theme.BananaTap" parent="android:style/Theme.Material.Light.NoActionBar">
-    <item name="android:fontFamily">sans</item><item name="android:colorAccent">#FFB300</item>
-    <item name="android:navigationBarColor">#171717</item><item name="android:statusBarColor">#171717</item>
-</style></resources>
